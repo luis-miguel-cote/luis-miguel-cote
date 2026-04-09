@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hola, soy Luis Miguel Cote</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Developer;Backend+Engineer;IoT+Developer&center=true&width=500&height=50">
+</p>
+
+<p align="center">
 💻 Ingeniero Electrónico | Full Stack Developer | AI Developer <br>
 📍 Cali, Colombia
 </p>
@@ -10,11 +14,15 @@
 <a href="https://www.linkedin.com/in/luis-miguel-cote/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luis-miguel-cote&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
+
 ---
 
 ## 🚀 Sobre mí
 
-Soy desarrollador enfocado en la creación de soluciones que integran **backend, frontend, IoT e inteligencia artificial**.  
+Soy desarrollador enfocado en la creación de soluciones que integran **backend, frontend, IoT e inteligencia artificial**.
 
 🔹 Desarrollo de APIs REST escalables  
 🔹 Integración de IA generativa (LLMs)  
@@ -107,8 +115,8 @@ Procesamiento de imágenes en Python para visión por computador.
 ## 📊 Estadísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luis-miguel-cote&show_icons=true&theme=dark"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luis-miguel-cote&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=luis-miguel-cote&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luis-miguel-cote&theme=tokyonight"/>
 </p>
 
 ---

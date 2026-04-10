@@ -114,9 +114,12 @@ Procesamiento de imágenes en Python para visión por computador.
 
 ## 📊 Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=luis-miguel-cote&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luis-miguel-cote&show_icons=true&theme=tokyonight)
+
 ![Streak](https://streak-stats.demolab.com?user=luis-miguel-cote&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-miguel-cote&layout=compact&theme=tokyonight&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luis-miguel-cote&layout=compact&theme=tokyonight)
+
 
 ---
 

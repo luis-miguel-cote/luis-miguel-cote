@@ -116,7 +116,10 @@ Procesamiento de imágenes en Python para visión por computador.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=luis-miguel-cote&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luis-miguel-cote&theme=tokyonight"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=luis-miguel-cote&theme=tokyonight"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-miguel-cote&layout=compact&theme=tokyonight"/>
 </p>
 
 ---

@@ -48,6 +48,7 @@ He participado en proyectos relacionados con:
 - 🔹 Integración, migración y sincronización entre plataformas
 - 🔹 Integración y gestión de información con Zoho CRM
 - 🔹 Análisis exploratorio, limpieza y transformación de datos
+- 🔹 Web scraping y automatización de navegadores con Selenium
 - 🔹 Desarrollo y validación de pruebas de concepto (PoC)
 - 🔹 Diseño y gestión de bases de datos PostgreSQL y MySQL
 - 🔹 Integración de inteligencia artificial generativa y LLMs
@@ -98,8 +99,14 @@ Me interesa convertir necesidades del negocio y procesos manuales en soluciones 
 
 ![Process Automation](https://img.shields.io/badge/Automatización_de_procesos-FF6F00?style=for-the-badge)
 ![System Integration](https://img.shields.io/badge/Integración_de_sistemas-0052CC?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-7B42BC?style=for-the-badge&logo=webhooks&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-7B42BC?style=for-the-badge)
 ![API Integration](https://img.shields.io/badge/Integración_de_APIs-009688?style=for-the-badge)
+
+### 🕷️ Web scraping y automatización web
+
+![Python Web Scraping](https://img.shields.io/badge/Python_Web_Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Browser Automation](https://img.shields.io/badge/Automatización_de_navegador-0052CC?style=for-the-badge)
 
 ### 🏢 Plataformas empresariales
 
@@ -168,6 +175,16 @@ Solución para migrar y sincronizar información entre sistemas empresariales.
 - Automatización de tareas repetitivas
 - Registro de errores y trazabilidad del proceso
 
+### 🕷️ Web scraping y automatización con Selenium
+
+Automatización de navegadores para extraer y procesar información de sitios web.
+
+- Navegación automatizada mediante Selenium
+- Interacción con formularios y elementos dinámicos
+- Extracción estructurada de información
+- Limpieza y transformación de los datos obtenidos
+- Integración de los resultados con otros procesos y sistemas
+
 ### 🌐 Aplicación Full Stack con IA
 
 Aplicación web que combina servicios backend, autenticación e inteligencia artificial.
@@ -198,9 +215,22 @@ Procesamiento y análisis de imágenes en Python para aplicaciones de visión po
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-miguel-cote&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Lenguajes más utilizados por Luis Miguel"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://streak-stats.demolab.com/?user=luis-miguel-cote&theme=tokyonight&hide_border=true&locale=es"
     alt="Racha de contribuciones de Luis Miguel"
   />
+</p>
+
+<p align="center">
+  <sub>
+    Los porcentajes representan el código detectado en repositorios públicos y no el nivel profesional en cada lenguaje.
+  </sub>
 </p>
 
 ---

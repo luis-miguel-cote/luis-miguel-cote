@@ -215,8 +215,12 @@ Procesamiento y análisis de imágenes en Python para aplicaciones de visión po
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-miguel-cote&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Lenguajes más utilizados por Luis Miguel"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luis-miguel-cote&theme=tokyonight"
+    alt="Lenguajes por repositorio"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luis-miguel-cote&theme=tokyonight"
+    alt="Lenguajes por commits"
   />
 </p>
 
@@ -229,7 +233,7 @@ Procesamiento y análisis de imágenes en Python para aplicaciones de visión po
 
 <p align="center">
   <sub>
-    Los porcentajes representan el código detectado en repositorios públicos y no el nivel profesional en cada lenguaje.
+    Las estadísticas se calculan a partir de mis repositorios públicos y no representan mi nivel profesional en cada lenguaje.
   </sub>
 </p>
 
